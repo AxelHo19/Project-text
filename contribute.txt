@@ -1,1 +1,4 @@
+Hola, soy el dueño del proyecto, mi camarada aporto un archivo para el que guste contribuir. :)
 Hello mi nombre es Jonathan y quiero contribuir en el proyecto.
+
+pd: Hello wordl ! :)
